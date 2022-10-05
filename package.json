@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cherio": "^1.0.0-rc.2",
+    "image-downloader": "^4.3.0",
+    "node-image-downloader": "^1.0.7",
+    "request": "^2.88.2"
+  }
+}
